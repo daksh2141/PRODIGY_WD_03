@@ -7,7 +7,7 @@
 
 body {
   height: 100vh;
-  background: linear-gradient(to right, #ff4e50, #f9d423); /* sunset-style */
+  background: linear-gradient(to right, #ff4e50, #f9d423); 
   display: flex;
   justify-content: center;
   align-items: center;
